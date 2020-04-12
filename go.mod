@@ -1,5 +1,5 @@
-module github.com/mainflux/coap-cli
+module github.com/coapcloud/coap-cli
 
-go 1.12
+go 1.13
 
-require github.com/dustin/go-coap v0.0.0-20170214053734-ddcc80675fa4
+require github.com/dustin/go-coap v0.0.0-20190908170653-752e0f79981e

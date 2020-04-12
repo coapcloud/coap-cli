@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	coap "github.com/mainflux/coap-cli/coap"
+	coap "github.com/coapcloud/coap-cli/coap"
 
 	gocoap "github.com/dustin/go-coap"
 )
